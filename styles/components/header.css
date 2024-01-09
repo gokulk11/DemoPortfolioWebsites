@@ -40,6 +40,7 @@
         padding:0;
         gap:2em
     }
+    
     .header__link
     {
         font-size: var(--size-xs);
